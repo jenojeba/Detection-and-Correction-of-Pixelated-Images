@@ -1,4 +1,4 @@
-# Pixelated Image Detection and Correction
+# Detect Pixelated Image and Correct it
 
 ## Introduction
 
