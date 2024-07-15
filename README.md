@@ -48,7 +48,7 @@ The Team members of this project:
 - Jenolin Esther
 - Bettina
 
-And we thank our college mentor Mrs.Rajeswari and the mentors from Intel Unnati Industry for their support and guidance.
+And we thank our college mentor Dr. M.Rajeswari and the mentors from Intel Unnati Industry for their support and guidance.
 
 ## Future Work
 - Need improvement in correcting the quality of image.
